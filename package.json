@@ -1,0 +1,12 @@
+{
+  "name": "dian_xargs",
+  "version": "1.0.0",
+  "description": "xargs node版",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": { "dian_xargs": "bin/dian_xargs.js" },
+  "author": "zuijiaoluo@outlook.com",
+  "license": "ISC"
+}
