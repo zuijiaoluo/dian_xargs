@@ -3,9 +3,9 @@
 ## dian_xargs是什么
 	dian_xargs 是模仿xargs的一个命令行工具，目前仅实现了-n 和 -P 俩个参数
 ## 环境要求
-  node >= 7.8.0
-  npm >= 4.2.0
-  无第三方依赖
+	node >= 7.8.0
+	npm >= 4.2.0
+	无第三方依赖
 ## 如何安装
  	git clone https://github.com/zuijiaoluo/dian_xargs.git
 	npm i . -g
